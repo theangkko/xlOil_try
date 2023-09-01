@@ -1,0 +1,17 @@
+Asmjit
+------
+
+Branch: master (25 Oct 2019)
+Source: https://github.com/asmjit/asmjit/commit/ac77dfcd75f043e2fe317133a971040e5b999916
+
+Boost
+-----
+
+Branch: 1.67
+Source: https://sourceforge.net/projects/boost/files/boost/
+
+Excel2013SDK
+------------
+
+Branch: release
+Source: microsoft

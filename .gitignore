@@ -1,0 +1,56 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.out
+*.app
+
+# Visual studio stuff
+.vs
+build/
+packages/
+graveyard/
+*.vcxproj.user
+.vscode
+
+# Other caches
+__pycache__
+.ipynb_checkpoints
+
+# External libraries
+/external/python/
+/external/sqlite
+/external/pybind11-stubgen
+/external/CTPL
+/external/tomlplusplus
+/external/spdlog
+/external/pybind11
+/external/rdcfswatcher
+/external/asmjit
+/external/winreg
+/docs/source/_build
+
+~$*
